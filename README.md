@@ -1,5 +1,5 @@
 # lio
-A proof of concept of [Flame Fractals](https://flam3.com/flame_draves.pdf), with a toy genetic algorithm for producing variations.
+A proof of concept of [Fractal Flames](https://flam3.com/flame_draves.pdf), with a toy genetic algorithm for producing variations.
 
 `lio.ipynb` is runnable as-is, `lio_scratch.ipynb` has some other demo code for toying around. 
 
